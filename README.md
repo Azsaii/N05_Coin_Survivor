@@ -1,6 +1,6 @@
 ## 시연 영상
 
-https://img.youtube.com/vi/9pe8bJyBZFM/maxresdefault.jpg
+[![Demo Video](https://img.youtube.com/vi/9pe8bJyBZFM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9pe8bJyBZFM)
 
 <br>
 
